@@ -1,4 +1,4 @@
-https://github.com/BanesaGuaderrama/Animated_Landing_Page.git
+https://banesaguaderrama.github.io/Animated_Landing_Page/
 
 # Animated_Landing_Page
 Animated_Landing_Page
